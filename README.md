@@ -34,3 +34,5 @@ Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSII.t
 y así.
 
 > No todos los homeworks tienen tests, está detallado en la descripción de cada uno.
+npm intall
+npm test {maximilianobrito}.test.js
